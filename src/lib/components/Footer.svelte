@@ -2,7 +2,7 @@
 	<div>
 		<svg fill="#000000" class="h-8 w-8 fill-white" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 330 330" xml:space="preserve"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path id="XMLID_523_" d="M315,0H15C6.716,0,0,6.716,0,15v300c0,8.284,6.716,15,15,15h300c8.284,0,15-6.716,15-15V15 C330,6.716,323.285,0,315,0z M300,300H30V30h270V300z"></path> </g></svg>
 		<p class="font-bold">
-			Square Tutoring  <br /> 
+			Square Tutoring
 		</p>
 		<p>Website created by Gil Friedman</p>
 		<p>Contact me at gil.friedman74@gmail.com</p>
