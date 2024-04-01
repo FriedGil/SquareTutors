@@ -15,10 +15,10 @@
 	</div>
 	<div class="flex-2">
 		<ul class="menu menu-horizontal px-1">
-		<li><a href="/about">About</a></li>
-		<li><a href="/services">Services</a></li>
-		<li><a href="/subjects">Subjects</a></li>
-		<li><a href="/contact">Contact</a></li>
+		<li><a href="/about" class=" hidden md:block text-sm sm:text-md md:text-lg">About</a></li>
+		<li><a href="/services" class="text-sm sm:text-md md:text-lg">Services</a></li>
+		<li><a href="/subjects" class="hidden md:block text-sm sm:text-md md:text-lg">Subjects</a></li>
+		<li><a href="/contact" class="text-sm sm:text-md md:text-lg">Contact</a></li>
 
 		</ul>
 	</div>
